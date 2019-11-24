@@ -5,5 +5,5 @@
 # instruction
 copy three folders to C:\*\models\research\object_detection
 
-## fllow this:
+## follow this:
 https://blog.csdn.net/vector_Lu/article/details/88593318
