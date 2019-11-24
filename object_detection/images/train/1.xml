@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>1.png</filename>
+	<path>C:\Users\Alive\Traffic-Signs-Detect-German-master\object_detection\images\train\1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>138</width>
+		<height>156</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>25</ymin>
+			<xmax>127</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>
