@@ -1,6 +1,6 @@
 # train-model-of-object-detection
 
-## from https://github.com/MaLeiOnline/sustech-recognition-of-traffic-signs
+## from https://github.com/MaLeiOnline/ND-recognition-of-traffic-signs
 
 # instruction
 copy three folders to C:\*\models\research\object_detection
